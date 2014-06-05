@@ -1,0 +1,27 @@
+{
+  "name": "ignore-writable",
+  "version": "1.0.0",
+  "description": "A 'passthrough' writable stream, which simply ignores its input. (for mocking)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/yamadapc/ignore-writable"
+  },
+  "keywords": [
+    "mock",
+    "sinon",
+    "testing",
+    "streams",
+    "writable",
+    "ignore"
+  ],
+  "author": "Pedro Yamada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamadapc/ignore-writable/issues"
+  },
+  "homepage": "https://github.com/yamadapc/ignore-writable"
+}
